@@ -12,7 +12,7 @@
   </head>
   <body>
   <h2>Vietnamese Dictionary - Post</h2>
-  <form method="post" action="${pageContext.request.contextPath}/translate">
+  <form method="post" action="translate">
     <label>
       <input type="text" name="txtSearch" placeholder="Enter your word: ">
     </label>
